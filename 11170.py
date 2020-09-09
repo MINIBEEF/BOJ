@@ -9,8 +9,6 @@ def solve(nm_set):
 
         print(cnt)
 
-
-
 if __name__ == '__main__':
     t = int(input())
     input_set = list()
