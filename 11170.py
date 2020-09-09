@@ -1,3 +1,4 @@
+# problem : https://www.acmicpc.net/problem/11170
 def solve(nm_set):
     for i in range(len(nm_set)):
         n = int(nm_set[i][0])
