@@ -8,5 +8,4 @@ def solve(n, d):
 if __name__ == '__main__':    
     n, d = input().split()
     n = int(n)
-    d = d
     print(solve(n, d))
