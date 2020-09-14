@@ -1,5 +1,4 @@
 # problem : https://www.acmicpc.net/problem/1057
-
 def solve(A, B, cnt):
     if A == B:
         return cnt
